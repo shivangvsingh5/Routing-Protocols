@@ -74,7 +74,6 @@ Delay_Total = 0
 
 PcktsTransmt_Total = 0
 
-
 for a in t:
     if "Payload" in a:
         TransmittedPckts.append(a)
